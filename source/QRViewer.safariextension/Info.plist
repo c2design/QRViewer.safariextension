@@ -71,6 +71,8 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://www.c2design.be/apps/safari/extensions/update.plist</string>
 	<key>Website</key>
 	<string>http://www.c2design.be</string>
 </dict>
