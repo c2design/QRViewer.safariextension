@@ -1,0 +1,7 @@
+body {
+	background: #fff;
+}
+#QRCodeContainer {
+	float: left;
+	margin: 5px 0 0 5px;
+}
