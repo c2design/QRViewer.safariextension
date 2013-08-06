@@ -9,7 +9,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>QRViewer</string>
 	<key>CFBundleIdentifier</key>
-	<string>be.c2design.qrviewer</string>
+	<string>net.appious.qrviewer</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -74,6 +74,6 @@
 	<key>Update Manifest URL</key>
 	<string>http://www.c2design.be/apps/safari/extensions/update.plist</string>
 	<key>Website</key>
-	<string>http://www.c2design.be</string>
+	<string>http://www.appious.net</string>
 </dict>
 </plist>
