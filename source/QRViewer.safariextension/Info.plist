@@ -72,7 +72,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://www.c2design.be/apps/safari/extensions/update.plist</string>
+	<string>http://www.appious.net/apps/safari/extensions/update.plist</string>
 	<key>Website</key>
 	<string>http://www.appious.net</string>
 </dict>
